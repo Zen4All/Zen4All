@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a freelance Zen Cart developer, building, upgrading and customizing Zen Cart webshops, for customers all over the world.
 
 <!--
 **Zen4All/Zen4All** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
